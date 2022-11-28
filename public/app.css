@@ -1,0 +1,14 @@
+.dark {
+    background: #000;
+    color: #fff;
+}
+
+.light {
+    background: #eee;
+    color: #000;
+}
+
+.card-img, .card-img-top {
+    height: 280px;
+    object-fit: cover;
+}
